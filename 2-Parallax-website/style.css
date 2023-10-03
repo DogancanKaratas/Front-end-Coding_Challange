@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home1-img{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./img/home1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+}
+
+.home1-header{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+
+.home1-header h1{
+    border: 3px solid #c4c96028;
+    box-shadow: 1px 1px 5px 3px #c4c960;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:20px;
+    padding: 5px 5px;
+    color:#D2B168;
+    outline: 5px solid rgba(192, 192, 192, 0.199);
+    outline-offset: 10px;
+    font-family: 'Fuggles', cursive;
+    letter-spacing: 8px;
+}
+
+.home2-img{
+    background-image: url(./img/yüzükkardeşliği.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+
+.home2-text{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+
+.home2-text h1{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 5px 3px darkred;
+
+}
+
+.home2-text p{
+    color: gray;
+}
+
+.home2-header{
+    display: inline-block;
+    background-image: none;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    right: 39%;
+    left: 39%;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+.home2-header h1{
+    border: 3px solid #c4c96028;
+    box-shadow: 1px 1px 5px 3px #c4c960;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:20px;
+    padding: 5px 5px;
+    color:black;
+    outline: 5px solid rgba(192, 192, 192, 0.199);
+    outline-offset: 10px;
+    font-family: 'Fuggles', cursive;
+    
+}
+/* !------- */
+
+.home3-img{
+    background-image: url(./img/desktop-wallpaper-the-lord-of-the-rings-the-two-towers.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+
+.home3-text{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+
+.home3-text h1{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 5px 3px darkred;
+
+}
+
+.home3-text p{
+    color: gray;
+}
+
+.home3-header{
+    display: inline-block;
+    background-image: none;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    right: 39%;
+    left: 39%;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+.home3-header h1{
+    border: 3px solid #c4c96028;
+    box-shadow: 1px 1px 5px 3px #c4c960;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:20px;
+    padding: 5px 5px;
+    color:black;
+    outline: 5px solid rgba(192, 192, 192, 0.199);
+    outline-offset: 10px;
+    font-family: 'Fuggles', cursive;
+    
+}
+
+/* !------ */
+
+.home4-img{
+    background-image: url(./img/son.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+
+.home4-text{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+
+.home4-text h1{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 5px 3px darkred;
+
+}
+
+.home4-text p{
+    color: gray;
+}
+
+.home4-header{
+    display: inline-block;
+    background-image: none;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    right: 39%;
+    left: 39%;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+.home4-header h1{
+    border: 3px solid #c4c96028;
+    box-shadow: 1px 1px 5px 3px #c4c960;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:20px;
+    padding: 5px 5px;
+    color:#D2B168;
+    outline: 5px solid rgba(192, 192, 192, 0.199);
+    outline-offset: 10px;
+    font-family: 'Fuggles', cursive;
+    
+}
+
+/* !!! */
+
+.home5-img{
+    background-image: url(./img/kule.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+}
+
+.home5-text{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+
+.home5-text h1{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 5px 3px darkred;
+
+}
+
+.home5-text p{
+    color: gray;
+}
+
+.home5-header{
+    display: inline-block;
+    background-image: none;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    right: 39%;
+    left: 39%;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+.home5-header h1{
+    border: 3px solid #c4c96028;
+    box-shadow: 1px 1px 5px 3px #c4c960;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:20px;
+    padding: 5px 5px;
+    color:#D2B168;
+    outline: 5px solid rgba(192, 192, 192, 0.199);
+    outline-offset: 10px;
+    font-family: 'Fuggles', cursive;
+    
+}

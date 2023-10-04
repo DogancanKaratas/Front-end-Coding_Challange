@@ -60,7 +60,6 @@ hr{
   position: relative;
 }
 .bottom-left {
-  margin: 30px 100px;
   width: 20%;
   margin: 30px 100px;
   background-color: #d9d9d9;
@@ -86,6 +85,38 @@ hr{
 }
 .bottom-center p {
   margin: 0 8px;
+}
+
+@media (max-width: 991.98px){
+    .header{
+        display: block;
+    }
+    .header-top{
+        display: block;
+    }
+    .header-left{
+        display: block;
+    }
+    .header-right{
+        display: block;
+    }
+    .header-bottom{
+        display: flex;
+        flex-direction: column;
+    }
+    .bottom-left{
+        
+    
+    }
+    .bottom-center{
+        display: flex;
+        text-align: center;
+    }
+    .home1{
+        display: flex;
+        flex-direction: column;
+        
+    }
 }
 /* !Home1 */
 

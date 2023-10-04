@@ -36,6 +36,8 @@
     letter-spacing: 8px;
 }
 
+/* !------- */
+
 .home2-img{
     background-image: url(./img/yüzükkardeşliği.jpg);
     width: 100%;
@@ -63,6 +65,7 @@
 
 .home2-text p{
     color: gray;
+    
 }
 
 .home2-header{
@@ -260,3 +263,4 @@
     font-family: 'Fuggles', cursive;
     
 }
+

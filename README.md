@@ -8,5 +8,7 @@
 
 4-Media-Query-Challenge => https://652515d8e5ab8c009499a089--loquacious-bublanina-79306f.netlify.app/
 
+5-News-Page => https://652817b5b3baef38de2b8b9a--relaxed-lollipop-6b36f1.netlify.app/
+
 
 Hello, this repo is one of my important steps towards becoming a front-end developer.

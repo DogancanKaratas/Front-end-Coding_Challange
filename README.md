@@ -12,5 +12,7 @@
 
 6-CSS-Grid => https://652d1ae3ac96d005b2f7aeb1--melodic-florentine-7aae0f.netlify.app/
 
+7-İosCalculator => https://65310a83caaedf10bcbc0643--friendly-taiyaki-df3f2c.netlify.app/
+
 
 Hello, this repo is one of my important steps towards becoming a front-end developer.
